@@ -1,5 +1,2 @@
-.idea/
-.git/
-*.iml
 out/*
 target/*
